@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  box-sizing: border-box;
+}
+
+.letter {
+  
+  margin: 10px 20px;
+  background-color: rgb(3, 2, 2);
+  display: flex;
+  gap: 50px;
+  
+}
